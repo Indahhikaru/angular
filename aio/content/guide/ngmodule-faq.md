@@ -1,5 +1,5 @@
-# NgModule FAQ
-
+angular/packages/platform-browser/src/browser.ts 
+#NgModule FAQ
 NgModules help organize an application into cohesive blocks of functionality.
 
 This page answers the questions many developers ask about NgModule design and implementation.
